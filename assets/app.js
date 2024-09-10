@@ -16,7 +16,7 @@ let chanson = [
         "artiste": "Tiakola",
         "titre": "Fleurs",
         "sotie": "2022",
-        "parole": ["J'ai"]["pris"]["différentes"]["gues-dro" ]["j'arrive"]["même"]["plus"]["à"]["t'guer-dra"],
+        "parole": " J'ai pris différentes gues-dro, j'arrive même plus à t'guer-dra Faut qu'on finisse sous tes draps (Faut qu'on finisse sous tes draps) Trop défoncé, j'suis sous codéine, j'sens plus mon cœur, j'sens plus mon pouls "
 
     },
     
